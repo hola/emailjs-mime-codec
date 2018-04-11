@@ -1,12 +1,12 @@
 {
-  "name": "emailjs-mime-codec",
+  "name": "@hola.org/emailjs-mime-codec",
   "description": "Encode and decode quoted printable and base64 strings",
   "version": "2.0.7",
   "main": "dist/mimecodec",
-  "homepage": "https://github.com/emailjs/emailjs-mime-codec",
+  "homepage": "https://github.com/hola/emailjs-mime-codec",
   "repository": {
     "type": "git",
-    "url": "git://github.com/emailjs/emailjs-mime-codec.git"
+    "url": "git://github.com/hola/emailjs-mime-codec.git"
   },
   "license": "MIT",
   "keywords": [
